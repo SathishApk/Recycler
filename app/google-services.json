@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039899487748",
+    "firebase_url": "https://recycler-5e45a.firebaseio.com",
+    "project_id": "recycler-5e45a",
+    "storage_bucket": "recycler-5e45a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039899487748:android:bb34fbe49354f5ed830f51",
+        "android_client_info": {
+          "package_name": "com.example.recycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039899487748-e7a931cdcr17v163ges5a46mlj3506v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA39x7OQQsc2IQXxEe6xTeogzqN5tyzm-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039899487748-e7a931cdcr17v163ges5a46mlj3506v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
